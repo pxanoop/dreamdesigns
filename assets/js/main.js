@@ -129,6 +129,20 @@ document.addEventListener('DOMContentLoaded', () => {
         'Weather-sealed EPDM perimeter gaskets prevent draft & moisture',
         'Available in casement, fixed picture, and awning configurations'
       ]
+    },
+    laser: {
+      eyebrow: 'Precision Engineering',
+      title: 'Metal Laser Cutting',
+      tagline: 'Precision for your unique designs — intricate motifs in structural steel.',
+      img: 'assets/images/product-laser.png',
+      desc: 'Our state-of-the-art CNC fiber laser cutting delivers unmatched sub-millimeter precision for architectural and ornamental metal applications. Perfect for bespoke decorative door inserts, privacy garden screens, motorized gate infills, and facade lattices with zero edge distortion.',
+      specs: [
+        'High-capacity fiber laser cutting up to 25mm structural & stainless steel',
+        'Micro-tolerance accuracy down to ±0.05mm for complex ornamental patterns',
+        'Custom architectural screens, security grilles, balustrades & gates',
+        'Direct CAD/DXF architectural file integration or custom bespoke motifs',
+        'Marine-grade zinc primer and UV-stable electrostatic powder coat'
+      ]
     }
   };
 
